@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Willy Nuñez</h1>
-<h3 align="center">my languages: SQL, Python, Kali Linux, Aviator but lover of programming, data management, analysis, power bi, excel, jupyter,tableu ,mathematics and statistics and webscraper</h3>
+<h3 align="center">my languages: SQL, Python, Kali Linux, Aviator but lover of programming, data management, analysis, power bi, excel, jupyter, tableu , mathematics and statistics and webscraper</h3>
 
 - 🔭 I’m currently working on **personal business projects**
 
